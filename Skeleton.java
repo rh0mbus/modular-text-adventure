@@ -1,5 +1,3 @@
-// Wesley Legault - Final Project
-
 // Skeleton monster
 public class Skeleton extends Monster{
 

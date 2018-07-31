@@ -1,7 +1,6 @@
 import java.util.ArrayList;
 import java.util.Random;
 
-// Wesley Legault - Final Project
 // Should also be singleton Only one player playing the game at once
 public class Player extends Actor{
 

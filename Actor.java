@@ -1,5 +1,3 @@
-// Wesley Legault - Final Project
-
 // This class is used to represent all characters that appear in the game
 public abstract class Actor{
 

@@ -1,4 +1,3 @@
-// Wesley Legault - Final Project
 import java.util.Random;
 
 // Where all the story takes place, monsters spawn here also
@@ -8,7 +7,7 @@ public class Level{
     private int levelType;
     // Used for dice rolling in the game
     private Random r = new Random();
-    
+
     // Constructor
     public Level(int l){
         this.levelType = l;

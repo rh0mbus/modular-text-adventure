@@ -1,5 +1,3 @@
-// Wesley Legault - Final Project
-
 import java.util.ArrayList;
 import java.util.Random;
 

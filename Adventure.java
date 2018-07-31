@@ -1,5 +1,3 @@
-// Wesley Legault - Final Project
-
 // Entry point
 public class Adventure{
     public static void main(String args[]){

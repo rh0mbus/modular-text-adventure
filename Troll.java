@@ -1,5 +1,3 @@
-// Wesley Legault - Final Project
-
 // Troll monster
 public class Troll extends Monster{
 
@@ -10,7 +8,7 @@ public class Troll extends Monster{
     public Troll(){
         super("Troll", 110, 25, 13);
     }
-    
+
     // Alternate version to attack a player
     public void attack(Player p){
         p.takeDamage(damage);

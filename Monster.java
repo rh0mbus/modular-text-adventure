@@ -1,5 +1,3 @@
-// Wesley Legault - Final Project
-
 // All monsters that appear in this game come from this class
 public class Monster extends Actor{
 
@@ -30,7 +28,7 @@ public class Monster extends Actor{
     public int getHealth(){
         return this.health;
     }
-    
+
     // Damage the monster
     public void takeDamage(int d){
         this.health += d;

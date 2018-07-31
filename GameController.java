@@ -1,4 +1,3 @@
-// Wesley Legault - Final Project
 import java.util.Scanner;
 
 // Game controller class - runs the game
@@ -18,8 +17,8 @@ public class GameController{
     private Player pc = Player.newPlayer();
 
     // Prevent default constructor
-    private GameController(){   
-        
+    private GameController(){
+
     }
 
     // Ensure only one game can run at once

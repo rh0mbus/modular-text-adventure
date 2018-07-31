@@ -1,5 +1,3 @@
-// Wesley Legault
-
 // This class holds all of the items available in the game
 public class Items{
 
@@ -39,7 +37,7 @@ public class Items{
         public String getName(){
             return this.name;
         }
-        
+
     }
 
     // Default class constructor

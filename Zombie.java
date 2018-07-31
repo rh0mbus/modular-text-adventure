@@ -1,5 +1,3 @@
-// Wesley Legault - Final Project
-
 // The zombie monster
 public class Zombie extends Monster{
 
